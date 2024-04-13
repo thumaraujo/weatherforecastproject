@@ -101,18 +101,19 @@ main {
 .weather-forecast-date {
   text-align: center;
   color: rgba(39, 33, 66, 0.4);
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 13px;
+  line-height: 18px;
   margin-bottom: 10px;
 }
 
 .weather-forecast-icon {
-  font-size: 38px;
+  width: 60px;
   text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 .weather-forecast-temperatures {
   text-align: center;
-  color: #f65282;
   margin-top: 10px;
   display: flex;
   justify-content: center;
