@@ -16,7 +16,7 @@ footer {
   color: rgba(0, 0, 0, 0.6);
 }
 a {
-  color: #30a7de;
+  color: #0c7db1;
 }
 main {
   padding: 30px 0;
@@ -73,7 +73,7 @@ main {
   margin-inline-start: 0px;
 }
 .weather-details strong {
-  color: #30a7de;
+  color: #0c7db1;
 }
 .weather-temperature-container {
   display: flex;
